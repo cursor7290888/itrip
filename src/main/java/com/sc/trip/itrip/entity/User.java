@@ -18,6 +18,7 @@ import java.util.List;
 @Data
 @TableName("omp_user")
 public class User implements Serializable{
+
     /**
      * 用户ID
      */
